@@ -1,2 +1,2 @@
-# cf-test-s3-techstarter
+# CF Test Bucket
  Just a Test Cloudformation
